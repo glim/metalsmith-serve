@@ -63,6 +63,10 @@ Default: false
 
 Log all requests
 
+### extensions
+Type: `Array`
+Default: ['html']
+
 ## License
 
   MIT
