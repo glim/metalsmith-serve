@@ -5,16 +5,19 @@
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Mayo Jordanov (http://oyam.ca)",
-  "contributors": [{
-    "name": "Mikael Blomberg",
-    "email": "mikael.blomberg@sc5.io"
-  }],
+  "contributors": [
+    {
+      "name": "Mikael Blomberg",
+      "email": "mikael.blomberg@sc5.io"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mayo/metalsmith-serve"
   },
   "dependencies": {
     "chalk": "^0.4.0",
+    "extend": "^2.0.1",
     "serve-static": "^1.9.2"
   },
   "devDependencies": {
